@@ -1,5 +1,5 @@
 	sudo ~/rpi-rgb-led-matrix/utils/text-scroller \
-	-f ~/fonts/i.bdf \
+	-f ~/teeth_divination_sh/i.bdf \
 	-s 5 \
 	--led-rows=64 \
 	--led-cols=64 \
