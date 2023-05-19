@@ -1,7 +1,7 @@
 	sudo ~/rpi-rgb-led-matrix/utils/text-scroller \
 	-f ~/teeth_divination_sh/baskerville.bdf \
 	-s 2 \
-	-t -1 \	
+	-t -1 \
 	--led-rows=64 \
 	--led-cols=64 \
 	--led-chain=4 \
